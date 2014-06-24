@@ -1,4 +1,4 @@
-#this is my new head
+#this is my new title
 ## this is an h2
 
 ---
